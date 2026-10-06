@@ -4,8 +4,7 @@ The Espobase client for Kotlin: your project's database, App Authentication (inc
 edge functions, with coroutines. It is a JVM library (Java 11+), so it works in Android apps (minSdk 26) and server-side
 Kotlin. Dependencies: kotlinx.coroutines, kotlinx.serialization and OkHttp.
 
-> Status: version 0.1.0, not published yet (owner to publish to Maven Central or a repository of their choice). Realtime
-> (WebSockets) is not in this version: use the REST API, or the JavaScript client for realtime.
+> Version 0.1.0. Realtime (WebSockets) is not in this version: use the REST API, or the JavaScript client for realtime.
 
 ## Install
 
